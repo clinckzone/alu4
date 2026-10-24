@@ -1,0 +1,22 @@
+# Yosys outputs
+alu4_mapped.v
+
+# OpenROAD outputs
+*.odb
+*.def
+*.guide
+*.spef
+alu4_drc.rpt
+alu4_maze.log
+
+# KLayout outputs
+*.gds
+alu4_klayout.lyt
+*.lyrdb
+*.log
+
+# Simulation
+build/
+
+# macOS
+.DS_Store
